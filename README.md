@@ -25,4 +25,5 @@
 Enroll now for the next Storage Tools Training webinar!  Open to IBMers and BPs! This session is part of our IBM Storage Integrated Solutioning Workflow training series.  It will be held on April 20 , 10am-1230pm and will focus on IBM Storage Fusion HCI. Registration link at https://ibm.webex.com/weblink/register/r004324f5f6fd4a95507c3aa14fe867e9 
 
 Links to replays of previous webinars in the series can be found at: [ibm.biz/storagetoolstraining](https://ibm.biz/storagetoolstraining)
+![image](https://user-images.githubusercontent.com/38366661/231650585-055a4e48-ca43-478c-96ac-786f95c79837.png)
 
