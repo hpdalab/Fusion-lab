@@ -1,8 +1,5 @@
 
-<BR>
-<BR>
-    
-# Learn
+# Learn - Spot the Opportunity
 
 #### [Sales Kit@Seismic](https://ibm.seismic.com/Link/Content/DCgFfq4m3dm9MG7BgD3X6qP7dHWd)
 <img src=https://user-images.githubusercontent.com/38366661/231651516-e27ea304-7fff-405c-994a-a22c5295723e.png width=400>
