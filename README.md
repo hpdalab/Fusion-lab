@@ -8,8 +8,8 @@
 
 ## Fusion-Everywhere
 
-<li> [Fusion Matrix](https://www.ibm.com/docs/en/storage-fusion/2.5?topic=services-storage-fusion-support-matrix)
-<li> [Fusion@ibm.com](https://www.ibm.com/products/storage-fusion)
-<li> [Fusion Sales Kit@Seismic](https://ibm.seismic.com/Link/Content/DCgFfq4m3dm9MG7BgD3X6qP7dHWd)
+### [Fusion Matrix](https://www.ibm.com/docs/en/storage-fusion/2.5?topic=services-storage-fusion-support-matrix)
+### [Fusion@ibm.com](https://www.ibm.com/products/storage-fusion)
+### [Fusion Sales Kit@Seismic](https://ibm.seismic.com/Link/Content/DCgFfq4m3dm9MG7BgD3X6qP7dHWd)
 
 
