@@ -1,6 +1,8 @@
 # HPDAlab @ no2023
 
 
+#### by: Frank Lee (frankli@us.ibm.com, 314-482-5329, [Linkedin](https://linkedin.com/in/drfranknlee/)
+
 ## [What's Fusion (whiteboard)](f00-fusion.md)
 
 ## [Demo - Data Fabric Made Real](demo/udf-cancer-imaging.md)
