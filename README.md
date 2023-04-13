@@ -1,7 +1,7 @@
 # HPDAlab @ no2023
 
 
-#### by: Frank Lee (frankli@us.ibm.com, 314-482-5329, [Linkedin](https://linkedin.com/in/drfranknlee/)
+#### by: Frank Lee: frankli@us.ibm.com, 314-482-5329, [Linkedin](https://linkedin.com/in/drfranknlee/) 
 
 <BR>
 
