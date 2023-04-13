@@ -12,6 +12,8 @@
 ## Fusion-Everywhere
 
 #### [Fusion Matrix@IBM Docs](https://www.ibm.com/docs/en/storage-fusion/2.5?topic=services-storage-fusion-support-matrix)
+![image](https://user-images.githubusercontent.com/38366661/231650860-aaeee8e5-61fe-4f3b-b39a-ed80f0e34276.png)
+
 #### [Fusion@ibm.com](https://www.ibm.com/products/storage-fusion)
 #### [Fusion Sales Kit@Seismic](https://ibm.seismic.com/Link/Content/DCgFfq4m3dm9MG7BgD3X6qP7dHWd)
 #### [Fusion Sandbox@TechZone](https://techzone.ibm.com/collection/ibm-spectrum-fusion)
