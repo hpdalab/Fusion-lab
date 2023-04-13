@@ -15,4 +15,4 @@
 ## [Try - run with experiential engagement](f03-try.md)
 
 
-## Lab - Data Science Made Easy
+## [Lab - Data Science Made Easy](lab/hpdalab-license-plate.md)
