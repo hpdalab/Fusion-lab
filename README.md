@@ -18,6 +18,8 @@
 ![image](https://user-images.githubusercontent.com/38366661/231651267-77519912-0124-4908-997a-e4c0d26f3561.png)
 
 #### [Fusion Sales Kit@Seismic](https://ibm.seismic.com/Link/Content/DCgFfq4m3dm9MG7BgD3X6qP7dHWd)
+![image](https://user-images.githubusercontent.com/38366661/231651516-e27ea304-7fff-405c-994a-a22c5295723e.png)
+
 #### [Fusion Sandbox@TechZone](https://techzone.ibm.com/collection/ibm-spectrum-fusion)
 ![image](https://user-images.githubusercontent.com/38366661/231650198-39c079df-dfcb-4acb-9188-c87919f87294.png)
 
