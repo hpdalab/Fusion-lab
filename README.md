@@ -1,7 +1,7 @@
 # HPDAlab @ no2023
 
 
-## [What's Fusion](f00-fusion.md)
+## [What's Fusion (whiteboard)](f00-fusion.md)
 
 ## [Demo - Data Fabric Made Real](demo/udf-cancer-imaging.md)
 
@@ -15,4 +15,4 @@
 ## [Try - run with experiential engagement](f03-try.md)
 
 
-## Demo - Data Science Made Easy
+## Lab - Data Science Made Easy
