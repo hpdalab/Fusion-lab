@@ -32,4 +32,4 @@
 ![image](https://user-images.githubusercontent.com/38366661/231669093-43118c11-db2c-4448-8c1e-02f258b97463.png)
 
 ## Visualization dashboard - Patient Demographics
-![image](https://user-images.githubusercontent.com/38366661/231670088-a4b0d456-802f-4ff4-ac96-9b40e181ce66.png)
+![image](https://user-images.githubusercontent.com/38366661/231670314-76673c94-20a7-4cf5-b0d6-313dcd04b2be.png)
