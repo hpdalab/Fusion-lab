@@ -17,7 +17,7 @@
 #### [Fusion Sandbox@TechZone](https://techzone.ibm.com/collection/ibm-spectrum-fusion)
 
 
-    <BR>
+<BR>
   <BR>
     
 ## Fusion HCI Solutioning Training (April 20th)
