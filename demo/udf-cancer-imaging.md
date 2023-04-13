@@ -47,7 +47,10 @@ The Breast Cancer Histopathological Image Classification (BreakHis) is composed 
 ## Import virtual access to Data Manifest into CP4D
 ![image](https://user-images.githubusercontent.com/38366661/231754495-0ce6a80b-a17d-4e31-af86-a875f8e64c6b.png)
 
-## Open metadata manifest
+## Open manifest as imported data asset
+![image](https://user-images.githubusercontent.com/38366661/231754878-7c097b16-a5cc-43df-b663-a8da84ee9b32.png)
+
+## Clean up manifest using Data Refinery
 ![image](https://user-images.githubusercontent.com/38366661/231662238-7b662a05-a620-44b8-bbe6-b8e809a17dea.png)
 
 ## Open metadata manifest for patients
