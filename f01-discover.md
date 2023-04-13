@@ -1,6 +1,6 @@
 
 
-# Discover - see the trend
+# Discover - see the ocean
 
 #### [Whiteboard](https://excalidraw.com/#room=3aac631a87db9a62e703,wCIa-8IBRLrmoPImJySMrw)
 <img src=https://user-images.githubusercontent.com/38366661/231657331-1ff1c2c6-a893-4039-b861-88894cf1ab66.png width=400>
