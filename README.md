@@ -4,13 +4,13 @@
 ## Demo - Data Fabric Made Real
 
 
-## Discover - what with why
+## Discover - see the trend
+[test]
+
+## Learn - spot the opportunity
 
 
-## Learn - what with how
-
-
-## Try - 
+## Try - run with experiential engagement
 
 
 ## Demo - Data Science Made Easy
