@@ -2,7 +2,7 @@
 
 # Discover
 #### [Product Page](https://www.ibm.com/products/storage-fusion)
-<img src=https://user-images.githubusercontent.com/38366661/231651267-77519912-0124-4908-997a-e4c0d26f3561.png size=20%>
+<img src=https://user-images.githubusercontent.com/38366661/231651267-77519912-0124-4908-997a-e4c0d26f3561.png width=200>
 #### [IBM & Red Hat Announcement](https://ibm.seismic.com/Link/Content/DCjGQ9pWCCjC88HBbjCRjqHQHPDG)
 #### [Fusion Community](https://community.ibm.com/community/user/storage/communities/community-home?CommunityKey=e596ba82-cd57-4fae-8042-163e59279ff3)
 #### Social Campaigns (#FusionEverywhere)
