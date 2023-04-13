@@ -1,15 +1,16 @@
-# neworleans2023
 
 
-## Discover
-
-    
-## Learn
-  
+# Discover
 #### [Product Page](https://www.ibm.com/products/storage-fusion)
 ![image](https://user-images.githubusercontent.com/38366661/231651267-77519912-0124-4908-997a-e4c0d26f3561.png)
+#### [IBM & Red Hat Announcement](https://ibm.seismic.com/Link/Content/DCjGQ9pWCCjC88HBbjCRjqHQHPDG)
+#### [Fusion Community](https://community.ibm.com/community/user/storage/communities/community-home?CommunityKey=e596ba82-cd57-4fae-8042-163e59279ff3)
+#### Social Campaigns (#FusionEverywhere)
+#### IBM Sponsored Events: KubeCon, IBM Think, Red Hat Summit
 
-  
+    
+# Learn
+
 #### [Sales Kit@Seismic](https://ibm.seismic.com/Link/Content/DCgFfq4m3dm9MG7BgD3X6qP7dHWd)
 ![image](https://user-images.githubusercontent.com/38366661/231651516-e27ea304-7fff-405c-994a-a22c5295723e.png)
 
@@ -24,7 +25,7 @@ Enroll now for the next Storage Tools Training webinar available to IBMers and B
 <BR>
 <BR>
     
-## Try
+# Try
     
 #### [Fusion Sandbox@TechZone](https://techzone.ibm.com/collection/ibm-spectrum-fusion)
 ![image](https://user-images.githubusercontent.com/38366661/231650198-39c079df-dfcb-4acb-9188-c87919f87294.png)
