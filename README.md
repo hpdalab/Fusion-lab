@@ -15,6 +15,8 @@
 ![image](https://user-images.githubusercontent.com/38366661/231650860-aaeee8e5-61fe-4f3b-b39a-ed80f0e34276.png)
 
 #### [Fusion@ibm.com](https://www.ibm.com/products/storage-fusion)
+![image](https://user-images.githubusercontent.com/38366661/231651267-77519912-0124-4908-997a-e4c0d26f3561.png)
+
 #### [Fusion Sales Kit@Seismic](https://ibm.seismic.com/Link/Content/DCgFfq4m3dm9MG7BgD3X6qP7dHWd)
 #### [Fusion Sandbox@TechZone](https://techzone.ibm.com/collection/ibm-spectrum-fusion)
 ![image](https://user-images.githubusercontent.com/38366661/231650198-39c079df-dfcb-4acb-9188-c87919f87294.png)
