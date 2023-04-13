@@ -9,13 +9,12 @@
 #### [Product Page](https://www.ibm.com/products/storage-fusion)
 <img src=https://user-images.githubusercontent.com/38366661/231651267-77519912-0124-4908-997a-e4c0d26f3561.png width=400>
 
-#### [IBM & Red Hat Announcement](https://ibm.seismic.com/Link/Content/DCjGQ9pWCCjC88HBbjCRjqHQHPDG)
 
 #### [Fusion Community](https://community.ibm.com/community/user/storage/communities/community-home?CommunityKey=e596ba82-cd57-4fae-8042-163e59279ff3)
 <img src=https://user-images.githubusercontent.com/38366661/231656553-e8336ac8-4ed8-4f14-8ec9-86b0b902e94c.png width=400>
 
 
-#### IBM Sponsored Events: [HIMSS](https://www.himss.org/global-conference), [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe), [IBM Think](https://www.ibm.com/events/think/), [Red Hat Summit](https://www.redhat.com/en/summit)
+#### IBM-sponsored Events: [HIMSS](https://www.himss.org/global-conference), [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe), [IBM Think](https://www.ibm.com/events/think/), [Red Hat Summit](https://www.redhat.com/en/summit)
 <img src=https://user-images.githubusercontent.com/38366661/231656782-4b338180-5302-4b5d-940f-7dfb68deb23d.png width=400>
 
 <img src=https://user-images.githubusercontent.com/38366661/231657034-55ea06e3-c5b0-4638-b8d7-a9f425c5046e.png width=400>
