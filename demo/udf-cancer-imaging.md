@@ -29,6 +29,9 @@ The Breast Cancer Histopathological Image Classification (BreakHis) is composed 
 ## Dataset Tagged with "hpdalab-xxxx"
 ![image](https://user-images.githubusercontent.com/38366661/231750517-71097048-4301-4158-b0ab-fc402a2dfe37.png)
 
+## Export Dataset Manifest
+![image](https://user-images.githubusercontent.com/38366661/231753255-b7fac7ca-ada1-4d1f-90bd-07d66b7a6c9a.png)
+
 
 
 ## Open CP4D Console
@@ -41,10 +44,10 @@ The Breast Cancer Histopathological Image Classification (BreakHis) is composed 
 ## Open Project UDF3-1
 ![image](https://user-images.githubusercontent.com/38366661/231661648-e59b4dd8-fc82-4293-b326-1c16ce97c18d.png)
 
-## Show how manifest can be virtually connected from original source
-![image](https://user-images.githubusercontent.com/38366661/231662864-e9219139-5231-42f0-bb1b-13962df6b8d6.png)
+## Import virtual access to Data Manifest into CP4D
+![image](https://user-images.githubusercontent.com/38366661/231754495-0ce6a80b-a17d-4e31-af86-a875f8e64c6b.png)
 
-## Open metadata manifest for medical images
+## Open metadata manifest
 ![image](https://user-images.githubusercontent.com/38366661/231662238-7b662a05-a620-44b8-bbe6-b8e809a17dea.png)
 
 ## Open metadata manifest for patients
