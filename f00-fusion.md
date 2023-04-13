@@ -1,6 +1,6 @@
 
 #### [Whiteboard for Fusion](https://excalidraw.com/#room=3aac631a87db9a62e703,wCIa-8IBRLrmoPImJySMrw) & [SafeZone for Your Input](https://excalidraw.com/#room=f7c71c3d50e7f258abf7,rLDi2VsEtQcqqUO2OtfnXg)
-![image](https://user-images.githubusercontent.com/38366661/231757430-83466088-71bf-4955-b133-8fd5eb906be3.png)
+![image](https://user-images.githubusercontent.com/38366661/231774037-6242ec67-c1ac-4fa9-935a-baa968c709d0.png)
 
 <BR>
 <BR>
