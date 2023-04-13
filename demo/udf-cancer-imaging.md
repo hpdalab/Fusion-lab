@@ -2,10 +2,29 @@
 
 [CP4D@Fusion208](https://cpd-cpd.ufln-ocp4-e7c7c62b03a3f0d7bf5ea898cda273b4-0000.us-south.containers.appdomain.cloud/zen/#/homepage)
 
+## Tag Cancer Imaging Dataset in Fusion Data Catalog
+![image](https://user-images.githubusercontent.com/38366661/231749710-21d44441-9c13-442d-ab00-602427b8224c.png)
+
+## Start with Fusion
+![image](https://user-images.githubusercontent.com/38366661/231750055-0ae5101e-bfd0-40fc-90b8-3cda51a9ed06.png)
+
+## Open Service Panel
+![image](https://user-images.githubusercontent.com/38366661/231750171-a934e18f-da38-4209-9bc8-881c2164b831.png)
+
+
+## Launch Fusion Data Cataloging
+![image](https://user-images.githubusercontent.com/38366661/231750725-76901169-3eed-44d2-9ea6-086429b98406.png)
+
+
+## Find and Tag Cancer Imaging Dataset
+![image](https://user-images.githubusercontent.com/38366661/231750517-71097048-4301-4158-b0ab-fc402a2dfe37.png)
+
+
+
 ## Open CP4D Console
 ![image](https://user-images.githubusercontent.com/38366661/231661594-419c0b5b-2888-41f3-b90d-89a373766bae.png)
 
-##Open Project UDF3-1
+## Open Project UDF3-1
 ![image](https://user-images.githubusercontent.com/38366661/231661648-e59b4dd8-fc82-4293-b326-1c16ce97c18d.png)
 
 ## Show how manifest can be virtually connected from original source
