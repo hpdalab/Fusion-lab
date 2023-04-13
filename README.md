@@ -1,4 +1,4 @@
-# HPDAlab @ New Orleans 2023
+# HPDAlab @ no2023
 
 
 ## [Demo - Data Fabric Made Real](demo/udf-cancer-imaging.md)
