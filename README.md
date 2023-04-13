@@ -4,7 +4,7 @@
 ## Demo - Data Fabric Made Real
 
 
-## [Discover - see the trend](fusion-discover.md)
+## [Discover - see the trend](f01-discover.md)
 
 
 ## Learn - spot the opportunity
