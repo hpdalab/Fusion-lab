@@ -1,6 +1,6 @@
 
 
-# Discover - see the ocean
+# Discover
 
 #### [Product Page](https://www.ibm.com/products/storage-fusion)
 <img src=https://user-images.githubusercontent.com/38366661/231651267-77519912-0124-4908-997a-e4c0d26f3561.png>
