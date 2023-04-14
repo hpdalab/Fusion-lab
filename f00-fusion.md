@@ -7,11 +7,6 @@
 <BR>
 <BR>
 
-#### The Pillars
-![image](https://user-images.githubusercontent.com/38366661/231779403-e05a8566-157a-4f4b-9e49-735144271dad.png)
-<BR>
-<BR>
-<BR>
   
 ![image](https://user-images.githubusercontent.com/38366661/231758796-3161c46e-f525-4b5c-850b-4e10f85bae48.png)
 
