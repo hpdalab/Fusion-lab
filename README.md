@@ -5,9 +5,6 @@
 
 <BR>
 
-## [What's Fusion (whiteboard)](f00-fusion.md)
-
-<BR>
 
 ## [Demo - Data Fabric Made Real](demo/udf-cancer-imaging.md)
 
