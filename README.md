@@ -13,15 +13,15 @@
 
 <BR>
 
-## [Discover - see the trend](f01-discover.md)
+## [Discover](f01-discover.md)
 
 <BR>
   
-## [Learn - spot the opportunity](f02-learn.md)
+## [Learn](f02-learn.md)
 
 <BR>
 
-## [Try - run with experiential engagement](f03-try.md)
+## [Try](f03-try.md)
 
 <BR>
 
