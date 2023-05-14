@@ -4,7 +4,7 @@
 <BR>
 
 
-## [Discover](f01-discover.md)
+## [Know](f01-know.md)
 
 <BR>
   
