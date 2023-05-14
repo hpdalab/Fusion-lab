@@ -7,5 +7,12 @@
 #### Data Services
 ![image](https://github.com/hpdalab/Fusion-workshop/assets/38366661/d3b3a3bf-8f47-4d1d-8493-5c71c0783c72)
 
+
+### Data Sheet
+[Fusion SDS Solution Brief](https://www.ibm.com/downloads/cas/7RJEJ5Y3)
+[Fusion HCI Data Sheet](https://www.ibm.com/downloads/cas/7RJEJ5Y3)
+
+
+
 ### [SafeZone for Input](https://excalidraw.com/#room=f7c71c3d50e7f258abf7,rLDi2VsEtQcqqUO2OtfnXg)
 
