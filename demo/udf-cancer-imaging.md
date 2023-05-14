@@ -1,4 +1,4 @@
-# Demo: Unified Data Fabric for Cancer Imaging
+# Demo: Unified Data Catalog for Cancer Imaging
 
 [CP4D @ Fusion208 Sandbox](https://cpd-cpd.ufln-ocp4-e7c7c62b03a3f0d7bf5ea898cda273b4-0000.us-south.containers.appdomain.cloud/zen/#/homepage)
 
