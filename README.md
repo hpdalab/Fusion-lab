@@ -18,7 +18,7 @@
 
 <BR>
   
-## ([Demo - UDC3 for Cancer Imaging](demo/udc3-cancer-imaging.md))
+## [Demo - UDC3 for Cancer Imaging](demo/udc3-cancer-imaging.md)
 
   <BR>
 
