@@ -9,10 +9,11 @@
 
 
 ### Data Sheet
-[Fusion SDS Solution Brief](https://www.ibm.com/downloads/cas/7RJEJ5Y3)
-[Fusion HCI Data Sheet](https://www.ibm.com/downloads/cas/7RJEJ5Y3)
+ - [Fusion SDS Solution Brief](https://www.ibm.com/downloads/cas/7RJEJ5Y3)
+ - [Fusion HCI Data Sheet](https://www.ibm.com/downloads/cas/7RJEJ5Y3)
 
-
+<BR>
+<BR>
 
 ### [SafeZone for Input](https://excalidraw.com/#room=f7c71c3d50e7f258abf7,rLDi2VsEtQcqqUO2OtfnXg)
 
