@@ -1,5 +1,9 @@
 # Fusion Workshop
 
+<BR>
+
+## [Whiteboard & Hands-on](f00-fusion.md)
+
 
 <BR>
 
